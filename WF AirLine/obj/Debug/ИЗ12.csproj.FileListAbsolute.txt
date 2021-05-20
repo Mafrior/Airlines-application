@@ -1,0 +1,14 @@
+E:\RPM\WF Airline\WF AirLine\bin\Debug\ИЗ12.exe.config
+E:\RPM\WF Airline\WF AirLine\bin\Debug\ИЗ12.exe
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.Form1.resources
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.Form2.resources
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.Form3.resources
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.Form4.resources
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.Form5.resources
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.Properties.Resources.resources
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.csproj.GenerateResource.cache
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.csproj.CoreCompileInputs.cache
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.exe
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.pdb
+E:\RPM\WF Airline\WF AirLine\obj\Debug\ИЗ12.csprojAssemblyReference.cache
+E:\RPM\WF Airline\WF AirLine\bin\Debug\ИЗ12.pdb
